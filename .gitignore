@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Compiled files
+dist/
+build/
+
+# Screenshot or output files
+*.png
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Optional: Mac trash
+.Trashes
+
+# Optional: Git ignored file logs
+.gitignore.log
